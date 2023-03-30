@@ -1,0 +1,1 @@
+Write a table in a code block that contains the following columns: Typing speed (w/pm), Time to finish essay
