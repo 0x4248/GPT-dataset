@@ -1,7 +1,7 @@
 # GPT Dataset
 This repository contains data that ChatGPT has created. The data is in csv format.
 
-> ** Warning**
+> **Warning**
 >
 > The data in this repository is not suitable for training since it comes from Chat GPT and could be random data. You can still use it just keep in mind it might me random data.
 
