@@ -1,0 +1,26 @@
+# GPT Dataset 5469
+## Prompt
+```
+Write a table in a code block that contains the following columns: Month, Total sales and Total profit (£)
+```
+## Columns
+- Month
+- Total sales
+- Total profit (£)
+
+## Data
+| Month | Total sales | Total profit (£) |
+|-------|-------------|-----------------|
+| Jan   | 5000        | 2000            |
+| Feb   | 6000        | 2500            |
+| Mar   | 7500        | 3000            |
+| Apr   | 9000        | 4000            |
+| May   | 10000       | 4500            |
+| Jun   | 11000       | 5000            |
+| Jul   | 12000       | 5500            |
+| Aug   | 13000       | 6000            |
+| Sep   | 14000       | 6500            |
+| Oct   | 15000       | 7000            |
+| Nov   | 16000       | 7500            |
+| Dec   | 18000       | 8000            |
+
