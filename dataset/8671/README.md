@@ -1,0 +1,58 @@
+# GPT Dataset 8671
+## Prompt
+```
+Car Make, Model, Year
+```
+## Columns
+- Car Make
+- Car Model
+- Year
+
+## Data
+| Car Make   | Car Model     | Year |
+| ---------- | -------------| ---- |
+| Toyota     | Corolla       | 2019 |
+| Ford       | Mustang       | 2022 |
+| BMW        | X5            | 2020 |
+| Honda      | Civic         | 2018 |
+| Chevrolet  | Camaro        | 2021 |
+| Audi       | A4            | 2017 |
+| Mercedes   | S-Class       | 2023 |
+| Porsche    | 911           | 2022 |
+| Tesla      | Model 3       | 2021 |
+| Subaru     | Outback       | 2019 |
+| Jeep       | Wrangler      | 2020 |
+| Lexus      | RX            | 2018 |
+| GMC        | Sierra        | 2022 |
+| Nissan     | Altima        | 2021 |
+| Volkswagen | Golf          | 2017 |
+| Hyundai    | Sonata        | 2020 |
+| Kia        | Sorento       | 2019 |
+| Dodge      | Challenger    | 2022 |
+| Mazda      | CX-5          | 2018 |
+| Volvo      | XC90          | 2023 |
+| Buick      | Encore        | 2021 |
+| Cadillac   | Escalade      | 2022 |
+| Jaguar     | F-Type        | 2020 |
+| Land Rover | Range Rover   | 2021 |
+| Acura      | RDX           | 2019 |
+| Infiniti   | Q50           | 2020 |
+| Lincoln    | Navigator     | 2022 |
+| Mini       | Cooper        | 2018 |
+| Mitsubishi | Outlander     | 2021 |
+| Ram        | 1500          | 2022 |
+| Smart      | Fortwo        | 2017 |
+| Fiat       | 500           | 2020 |
+| Alfa Romeo | Giulia        | 2018 |
+| Genesis    | G70           | 2022 |
+| Bentley    | Continental   | 2021 |
+| Rolls Royce| Ghost         | 2023 |
+| Ferrari    | F8 Spider    | 2020 |
+| Lamborghini | Huracan     | 2022 |
+| Bugatti    | Chiron        | 2021 |
+| Maserati   | Ghibli        | 2019 |
+| Aston Martin | DB11        | 2020 |
+| McLaren    | 570S          | 2018 |
+| Bugatti    | Veyron        | 2015 |
+| Koenigsegg | Jesko         | 2021 |
+

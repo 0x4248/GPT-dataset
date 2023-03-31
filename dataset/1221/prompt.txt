@@ -1,0 +1,1 @@
+Write me a long table in a code block that has the columns: Area size (m^2), Price of plot
