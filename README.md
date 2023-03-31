@@ -1,7 +1,7 @@
 # GPT Dataset
 This repository contains data that ChatGPT has created. The data is in csv format.
 
-There are `6` datasets in this repository
+There are `8` datasets in this repository
 
 > **Warning**
 >
