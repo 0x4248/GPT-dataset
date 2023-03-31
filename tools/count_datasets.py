@@ -8,6 +8,6 @@ if __name__ == "__main__":
     with open("README.md", "r") as f:
         readme = f.read()
     lines = readme.split("\n")
-    lines[3] = "There are `"+str(count)+"` datasets in this repository"
+    lines[4] = "There are `"+str(count)+"` datasets in this repository"
     with open("README.md", "w") as f:
         f.write("\n".join(lines))
