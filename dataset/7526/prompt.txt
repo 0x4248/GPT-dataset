@@ -1,0 +1,1 @@
+Write me a table in a code block with 50 rows containing the columns: pressure, rainfall, temperature, wind speed
