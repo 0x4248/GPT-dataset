@@ -1,0 +1,1 @@
+Write me a table with the following columns: Hour in day, Cars passed trough entrance, Average speed of cars. Make a few hours of the day have high volumes of traffic

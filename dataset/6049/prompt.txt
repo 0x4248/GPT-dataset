@@ -1,0 +1,1 @@
+Write me a table in a code block with the following columns: Download speed, Upload speed, Connection type, Ping speed. Set the connection type to: copper, fibre optic, wireless
