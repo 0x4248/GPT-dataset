@@ -1,0 +1,11 @@
+Create a table with random data containing
+Date
+Time
+Temperature
+Humidity
+Wind Speed
+Wind Direction
+Precipitation
+Pressure
+UV Index
+Weather Conditions

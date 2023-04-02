@@ -1,0 +1,1 @@
+Create a random table in a code block containing Bank Name, Branch, Address, Phone Number, Routing Number, Account Number, Account Type, Balance, Interest Rate and Date Opened
