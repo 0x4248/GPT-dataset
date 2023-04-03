@@ -1,0 +1,1 @@
+Come up with a table for a cafe in a code block with the following columns and only these columns: Time of day, Customers processed per hour and Income
