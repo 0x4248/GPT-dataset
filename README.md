@@ -2,7 +2,7 @@
 This repository contains data that ChatGPT has created. The data is in csv format.
 <img src="https://i.insider.com/63ef9e660270b1001984d9ce?width=2000&format=jpeg&auto=webp" width=400>
 
-There are `14` datasets in this repository
+There are `16` datasets in this repository
 
 > **Warning**
 >
@@ -18,4 +18,14 @@ The datasets are in the `dataset` folder. In this folder you will find more fold
         ├── data.csv
         ├── prompt.txt
         └── README.md
+```
+
+## Example prompt
+Here are some example prompts that you can use to generate data.
+
+```
+Generate a table with random data in a code block containing the following columns: A, B and C
+                                       ~~~~~~~~~~
+                                           ^
+     Needed so you can copy the data ______|
 ```
