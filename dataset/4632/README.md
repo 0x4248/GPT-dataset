@@ -1,0 +1,34 @@
+# GPT Dataset 4632
+## Prompt
+```
+Come up with a table in a code block with the following columns and only these columns: Musician Name, Album Title, Song Title, Genre
+```
+## Columns
+- Musician Name
+- Album Title
+- Song Title
+- Genre
+
+## Data
+| Musician Name      | Album Title                 | Song Title                 | Genre            |
+|--------------------|-----------------------------|----------------------------|------------------|
+| Kendrick Lamar     | To Pimp a Butterfly         | King Kunta                 | Hip Hop          |
+| Beyonce            | Lemonade                    | Formation                  | R&B              |
+| The Beatles        | Abbey Road                  | Come Together              | Rock             |
+| Taylor Swift       | Folklore                    | Cardigan                   | Indie Pop        |
+| Billie Eilish      | When We All Fall            | Bad Guy                    | Alternative Pop  |
+| Fleetwood Mac      | Rumours                     | Dreams                     | Rock             |
+| Bob Dylan          | Highway 61                  | Like a Rolling Stone       | Folk Rock        |
+| Michael Jackson    | Thriller                    | Billie Jean                | Pop              |
+| Nirvana            | Nevermind                   | Smells Like Teen Spirit    | Grunge           |
+| Adele              | 21                          | Rolling in the Deep        | Pop Soul         |
+| Outkast            | Speakerboxxx/The Love Below | Hey Ya!                    | Hip Hop/R&B      |
+| Queen              | A Night at the Opera        | Bohemian Rhapsody          | Rock             |
+| Radiohead          | OK Computer                 | Paranoid Android           | Alternative Rock |
+| Led Zeppelin       | IV                          | Stairway to Heaven         | Hard Rock        |
+| Marvin Gaye        | What's Going On             | What's Going On            | Soul             |
+| Stevie Wonder      | Songs in the Key of Life    | Sir Duke                   | Funk/Soul        |
+| Pink Floyd         | The Wall                    | Another Brick in the Wall  | Progressive Rock |
+| The Rolling Stones | Exile on Main St.           | Tumbling Dice              | Rock             |
+| Prince             | Purple Rain                 | Purple Rain                | Pop/Rock         |
+| David Bowie        | The Rise and Fall of Ziggy  | Starman                    | Glam Rock        |
