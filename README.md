@@ -21,11 +21,5 @@ The datasets are in the `dataset` folder. In this folder you will find more fold
 ```
 
 ## Example prompt
-Here are some example prompts that you can use to generate data.
 
-```
-Generate a table with random data in a code block containing the following columns: A, B and C
-                                       ~~~~~~~~~~
-                                           ^
-     Needed so you can copy the data ______|
-```
+For some examples of prompts you can look at the [prompts.md](prompts.md) file.
