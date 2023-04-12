@@ -1,0 +1,1 @@
+Come up with a table in a code block with the following columns and only these columns: Income, Education Level, Years of Experience, Employment Status. Tabel must have realistic values that are sort of random e.g (14254 not 14000)
