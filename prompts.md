@@ -1,11 +1,13 @@
 # ChatGPT GPT-Data prompts
 
+Here are some example prompts that you can use to generate data.
+
 ## Generate table columns
 Generate table for generating table columns
 ```
 Come up with table columns and only table columns
 
-The table columns should have at least on column that has discrete values
+The table columns should have at least one column that has continuous values
 
 The table columns should be table columns that are usually found in datasets
 
