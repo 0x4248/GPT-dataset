@@ -1,0 +1,1 @@
+Come up with a markdown table in a code block with the following columns and only these columns: Temperature, Humidity and Air Quality Index (AQI)
