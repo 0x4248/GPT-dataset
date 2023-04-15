@@ -1,0 +1,1 @@
+Come up with a markdown table in a code block with the following columns and only these columns: Time, Sell price and Buy price. Do an entry each 15 minutes and form 9:00AM to 4:00PM

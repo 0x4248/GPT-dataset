@@ -1,0 +1,43 @@
+# GPT Dataset 2336
+## Prompt
+```
+Come up with a markdown table in a code block with the following columns and only these columns: Time, Sell price and Buy price. Do an entry each 15 minutes and form 9:00AM to 4:00PM
+```
+## Columns
+- Time
+- Sell price
+- Buy price
+
+## Data
+| Time    | Sell price | Buy price |
+|---------|-----------|-----------|
+| 9:00AM  | 100       | 99        |
+| 9:15AM  | 101       | 98        |
+| 9:30AM  | 99        | 97        |
+| 9:45AM  | 98        | 96        |
+| 10:00AM | 102       | 97        |
+| 10:15AM | 104       | 99        |
+| 10:30AM | 105       | 100       |
+| 10:45AM | 107       | 102       |
+| 11:00AM | 109       | 104       |
+| 11:15AM | 110       | 105       |
+| 11:30AM | 111       | 106       |
+| 11:45AM | 112       | 107       |
+| 12:00PM | 110       | 105       |
+| 12:15PM | 108       | 103       |
+| 12:30PM | 107       | 102       |
+| 12:45PM | 106       | 101       |
+| 1:00PM  | 105       | 100       |
+| 1:15PM  | 103       | 99        |
+| 1:30PM  | 102       | 98        |
+| 1:45PM  | 101       | 97        |
+| 2:00PM  | 100       | 96        |
+| 2:15PM  | 99        | 95        |
+| 2:30PM  | 98        | 94        |
+| 2:45PM  | 97        | 93        |
+| 3:00PM  | 96        | 92        |
+| 3:15PM  | 95        | 91        |
+| 3:30PM  | 94        | 90        |
+| 3:45PM  | 93        | 89        |
+| 4:00PM  | 92        | 88        |
+
