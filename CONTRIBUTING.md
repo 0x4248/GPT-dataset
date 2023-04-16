@@ -1,5 +1,10 @@
 # Contributing to GPT Dataset
 
-## How to add to the dataset
+If you want to contribute to the GPT dataset, please follow the following steps:
 
-To add to the dataset you can run make add and follow the instructions. This will add a new file to the dataset folder. You can then edit the file to add your own data.
+- Use the `make` command to generate a new entry in the dataset.
+- Create a pull request with the new entry.
+- Ensure that the pull request contains the following files:
+  - `GPT-dataset/<dataset_id>/data.csv`
+  - `GPT-dataset/<dataset_id>/prompt.txt`
+  - `GPT-dataset/<dataset_id>/README.md`
