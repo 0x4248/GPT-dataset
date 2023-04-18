@@ -16,8 +16,8 @@ Create a random table in a code block containing Bank Name, Branch, Address, Pho
 - Date Opened
 
 ## Data
-| Bank Name          | Branch                | Address                          | Phone Number       | Routing Number | Account Number | Account Type | Balance      | Interest Rate | Date Opened |
-|--------------------|-----------------------|----------------------------------|--------------------|----------------|----------------|--------------|--------------|-------------|
+| Bank Name          | Branch                | Address                           | Phone Number       | Routing Number | Account Number | Account Type | Balance     |Interest Rate | Date Opened |
+|--------------------|-----------------------|-----------------------------------|--------------------|----------------|----------------|--------------|-------------|--------------|-------------|
 | First National Bank | Central City Branch   | 123 Main St, Central City, USA   | +1 (555) 123-4567  | 012345678      | 123456789      | Checking     | $1,234.56   | 0.01%        | 2022-03-15  |
 | City Bank           | Downtown Branch       | 456 High St, Downtown, USA       | +1 (555) 987-6543  | 234567890      | 987654321      | Savings      | $5,432.10   | 0.02%        | 2021-06-20  |
 | Regional Trust Bank | Northside Branch      | 789 Oak St, Northside, USA       | +1 (555) 555-1212  | 345678901      | 246810121      | Checking     | $9,876.54   | 0.005%       | 2020-09-01  |
