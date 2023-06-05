@@ -1,0 +1,1 @@
+Come up with a table in a code block with the following columns and only these columns: Software version, Issues on GitHub, Vulnerabilities open. Write at least 20 rows

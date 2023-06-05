@@ -1,0 +1,25 @@
+# GPT Dataset 6547
+## Prompt
+```
+Come up with a table in a code block with the following columns and only these columns: Product number, price, name, isle, shelf
+```
+## Columns
+- Product number
+- Price
+- Name
+- Isle
+- Shelf
+
+## Data
+| Product number | Price | Name       | Isle | Shelf |
+|----------------|-------|------------|------|-------|
+| 1              | $10   | Apple      | 3    | A1    |
+| 2              | $5    | Banana     | 4    | B2    |
+| 3              | $2    | Orange     | 2    | C3    |
+| 4              | $8    | Grape      | 1    | D4    |
+| 5              | $3    | Mango      | 3    | A5    |
+| 6              | $6    | Kiwi       | 4    | B6    |
+| 7              | $4    | Pineapple  | 2    | C7    |
+| 8              | $7    | Watermelon | 1    | D8    |
+| 9              | $2.5  | Lemon      | 3    | A9    |
+| 10             | $3.5  | Strawberry | 4    | B10   |
