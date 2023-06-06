@@ -1,0 +1,1 @@
+Come up with a table in a code block with the following columns and only these columns: Chip ID number, price (£), dimensions (mm). Write at least 20 rows
