@@ -1,0 +1,1 @@
+Come up with a table in a code block with the following columns and only these columns: Area number, population,  average age, percentage under 18, percentage over 18
