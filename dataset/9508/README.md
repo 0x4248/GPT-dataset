@@ -1,0 +1,34 @@
+# GPT Dataset 9508
+## Prompt
+```
+Come up with a table in a code block with the following columns and only these columns: Server id, storage, available storage
+```
+## Columns
+- Server id
+- Storage
+- Available Storage
+
+## Data
+| Server id | Storage | Available Storage |
+|-----------|---------|------------------|
+|     1     |  500GB  |      250GB       |
+|     2     |   1TB   |      500GB       |
+|     3     |   2TB   |     1.5TB        |
+|     4     |  500GB  |      250GB       |
+|     5     |   1TB   |      750GB       |
+|     6     |  2.5TB  |     1.2TB        |
+|     7     |  1.5TB  |      500GB       |
+|     8     |  500GB  |      100GB       |
+|     9     |   2TB   |     1.8TB        |
+|    10     |   1TB   |      800GB       |
+|    11     |  2.5TB  |     1.6TB        |
+|    12     |  1.5TB  |      1TB         |
+|    13     |   4TB   |     2.5TB        |
+|    14     |   2TB   |     1.2TB        |
+|    15     |  500GB  |      300GB       |
+|    16     |   1TB   |      500GB       |
+|    17     |  2.5TB  |     2.3TB        |
+|    18     |  1.5TB  |      1.3TB       |
+|    19     |  500GB  |      400GB       |
+|    20     |   2TB   |     1.6TB        |
+
