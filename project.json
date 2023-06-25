@@ -1,0 +1,14 @@
+{
+    "name": "GPT-dataset",
+    "description": "This repository contains data that ChatGPT has created.",
+    "version": "",
+    "main_file": "none",
+    "author": "Lewis Evans",
+    "license": "unlicenced",
+    "url": "https://www.github.com/awesomelewis2007/GPT-dataset",
+    "email": "none",
+    "languages": [
+        "python"
+    ],
+    "actions": {}
+}
