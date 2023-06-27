@@ -1,6 +1,6 @@
 # GPT code repository
 # This repository contains data that ChatGPT has created.
-# Github: https://www.github.com/awesomelewis2007/GPT-dataset
+# Github: https://www.github.com/lewisevans2007/GPT-dataset
 # By: Lewis Evans
 
 import os

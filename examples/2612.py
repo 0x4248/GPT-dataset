@@ -1,5 +1,5 @@
 # Machine Learning 
-# Data from: https://github.com/awesomelewis2007/GPT-dataset/tree/fe8f4dfce5642806b636918279ec0bbed68581e6/dataset/2612
+# Data from: https://github.com/lewisevans2007/GPT-dataset/tree/fe8f4dfce5642806b636918279ec0bbed68581e6/dataset/2612
 # By: Lewis Evans
 
 import numpy as np
