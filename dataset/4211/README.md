@@ -1,0 +1,24 @@
+# GPT Dataset 4211
+## Prompt
+```
+Come up with a table in a code block with the following columns and only these columns: Product id, number of ratings, average rating out of 5
+```
+## Columns
+- Product ID
+- Number of Ratings
+- Average Rating (out of 5)
+
+## Data
+| Product ID | Number of Ratings | Average Rating (out of 5) |
+|------------|-------------------|---------------------------|
+| 12345      | 100               | 4.3                       |
+| 67890      | 50                | 3.9                       |
+| 54321      | 200               | 4.6                       |
+| 98765      | 75                | 4.1                       |
+| 24680      | 150               | 4.8                       |
+| 13579      | 80                | 4.2                       |
+| 86420      | 120               | 4.7                       |
+| 97531      | 60                | 3.8                       |
+| 42069      | 90                | 4.0                       |
+| 31415      | 180               | 4.9                       |
+
