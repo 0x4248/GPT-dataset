@@ -1,0 +1,1 @@
+Come up with a table in a code block with the following columns and only these columns: Time of day, Cars passed trough toll both, Total profit

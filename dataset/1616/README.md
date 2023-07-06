@@ -1,0 +1,42 @@
+# GPT Dataset 1616
+## Prompt
+```
+Come up with a table in a code block with the following columns and only these columns: Time of day, Cars passed trough toll both, Total profit
+```
+## Columns
+- Time of day
+- Cars passed through toll booth
+- Total profit
+
+## Data
+| Time of day | Cars passed through toll booth | Total profit |
+|-------------|-------------------------------|--------------|
+| 7:00 AM     | 30                            | $150         |
+| 7:30 AM     | 40                            | $200         |
+| 8:00 AM     | 55                            | $275         |
+| 8:30 AM     | 45                            | $225         |
+| 9:00 AM     | 50                            | $250         |
+| 9:30 AM     | 65                            | $325         |
+| 10:00 AM    | 75                            | $375         |
+| 10:30 AM    | 70                            | $350         |
+| 11:00 AM    | 60                            | $300         |
+| 11:30 AM    | 55                            | $275         |
+| 12:00 PM    | 80                            | $400         |
+| 12:30 PM    | 85                            | $425         |
+| 1:00 PM     | 90                            | $450         |
+| 1:30 PM     | 75                            | $375         |
+| 2:00 PM     | 70                            | $350         |
+| 2:30 PM     | 65                            | $325         |
+| 3:00 PM     | 60                            | $300         |
+| 3:30 PM     | 55                            | $275         |
+| 4:00 PM     | 80                            | $400         |
+| 4:30 PM     | 85                            | $425         |
+| 5:00 PM     | 90                            | $450         |
+| 5:30 PM     | 75                            | $375         |
+| 6:00 PM     | 70                            | $350         |
+| 6:30 PM     | 65                            | $325         |
+| 7:00 PM     | 60                            | $300         |
+| 7:30 PM     | 55                            | $275         |
+| 8:00 PM     | 40                            | $200         |
+| 8:30 PM     | 30                            | $150         |
+
