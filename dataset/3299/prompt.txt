@@ -1,0 +1,1 @@
+Come up with a table in a code block with the following columns and only these columns: Battery size (cm^3), Capacity, Cost
