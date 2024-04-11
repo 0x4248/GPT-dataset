@@ -1,6 +1,6 @@
 # Machine Learning 
-# Data from: https://github.com/lewisevans2007/GPT-dataset/tree/fe8f4dfce5642806b636918279ec0bbed68581e6/dataset/2612
-# By: Lewis Evans
+# Data from: https://github.com/0x4248/GPT-dataset/tree/fe8f4dfce5642806b636918279ec0bbed68581e6/dataset/2612
+# By: 0x4248
 
 import numpy as np
 from sklearn import linear_model
